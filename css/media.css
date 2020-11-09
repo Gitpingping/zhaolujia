@@ -1,0 +1,1155 @@
+@charset "utf-8";
+
+@media (min-width:1440px) {
+    .container-md {
+        width: 1200px
+    }
+
+    .news-left {
+        width: 760px
+    }
+}
+
+@media (max-width:1440px) {
+    .hx-vip li {
+        width: 153px;
+        height: auto;
+    }
+
+    .hx-vip li .yw-box .txt span {
+        display: none
+    }
+
+    .hx-vip li.active {
+        width: 360px
+    }
+
+    .hx-vip li.active .yw-box-other {
+        width: 100%;
+        padding: 50px 30px 30px 30px
+    }
+
+    .hx-vip li.active .jt {
+        display: none
+    }
+
+    .swiper-fy {
+        width: 1230px
+    }
+
+    .zt-c .t .m {
+        width: 1200px
+    }
+
+    .ico-list li div {
+        font-size: 18px
+    }
+
+    .yj-child {
+        padding: 15px;
+        margin-top: 18px
+    }
+
+    .yj-child li {
+        font-size: 13px
+    }
+
+    .gh-nh div p {
+        height: 120px
+    }
+
+    .gh-hxyw .c-list p {
+        font-size: 13px
+    }
+
+    .gh-hxyw .c-list {
+        margin-left: 120px
+    }
+
+    .gh-hxyw .child span {
+        margin-left: 18px
+    }
+
+    .gh-ldsj {
+        padding: 50px 15px
+    }
+
+    .gh-spt {
+        padding-right: 0
+    }
+
+    .gh-spt .gh-spt-tips p {
+        font-size: 14px
+    }
+
+    .gh-td p {
+        height: 180px
+    }
+
+    .zs-zylist li div p {
+        font-size: 15px
+    }
+
+    .zs-slist p {
+        font-size: 14px
+    }
+
+    .jsq-gc .txt li:hover p {
+        margin-top: 30px
+    }
+
+    .cc-list {
+        padding: 50px 30px
+    }
+
+    .news-list li .w-all {
+        width: 100%
+    }
+
+    .container-md {
+        width: 1200px
+    }
+
+    .news-left {
+        width: 780px
+    }
+
+    .news-right {
+        width: 360px
+    }
+
+    .about-item .l {
+        padding: 30px
+    }
+
+    .fwqt div ul li {
+        font-size: 14px
+    }
+
+    .fwqt .f24 {
+        font-size: 20px
+    }
+}
+
+@media (max-width:1280px) {
+    .swiper-fy {
+        width: 1200px
+    }
+}
+
+@media (max-width:979px) {
+    body {
+        font-size: 14px;
+        width: 100%;
+        overflow-x: hidden
+    }
+
+    .container {
+        width: 100%
+    }
+
+    .slider .item .text {
+        font-size: 20px
+    }
+
+    .mb30 {
+        margin-bottom: 15px
+    }
+
+    .pt60 {
+        padding-top: 30px
+    }
+
+    .f24 {
+        font-size: 20px
+    }
+
+    .vidbg-box {
+        display: none
+    }
+
+    .video-imgbg {
+        display: block
+    }
+
+    .pdb60 {
+        padding-top: 30px;
+        padding-bottom: 30px
+    }
+
+    .m-txt b {
+        font-size: 20px
+    }
+
+    .m-txt p {
+        font-size: 20px;
+        display: none
+    }
+
+    .hx-vip li {
+        margin-bottom: 15px;
+        width: 50%;
+        margin-right: 0;
+        padding: 10px;
+        height: auto;
+        margin-bottom: 0
+    }
+
+    .hx-vip li .yw-box {
+        padding: 30px 10px;
+        height: auto
+    }
+
+    .hx-vip li .yw-box p.info {
+        display: none
+    }
+
+    .hx-vip li .yw-box p.l {
+        display: none
+    }
+
+    .hx-vip li .yw-box .txt em {
+        display: none
+    }
+
+    .hx-vip li .mt30 {
+        margin-top: 5px
+    }
+
+    .hx-vip li:nth-child(2n) {
+        margin-right: 0
+    }
+
+    .hx-vip li.active {
+        width: 50%
+    }
+
+    .hx-vip li.active .yw-child,
+    .hx-vip li.active .yw-box-other {
+        display: none
+    }
+
+    .hx-vip li.active .yw-box {
+        display: block
+    }
+
+    .zt-c {
+        height: 204px
+    }
+
+    .zt-c div.txt {
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+        padding: 10px;
+        top: 0
+    }
+
+    .zt-c div.txt p.mt20 {
+        margin-top: 10px
+    }
+
+    .zt-c .t .m {
+        display: none
+    }
+
+    .pageNews {
+        height: 180px;
+        background-size: cover
+    }
+
+    .zt-nav li {
+        width: 20%;
+        margin-bottom: 15px
+    }
+
+    .zt-nav li b {
+        display: block;
+        height: 42px
+    }
+
+    .zt-nav li i {
+        margin-bottom: 10px
+    }
+
+    .m-pd50 {
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .zs-slider img {
+        height: auto;
+        width: 100%
+    }
+
+    .zs-slider .carousel-control {
+        display: block
+    }
+
+    .news-menu li {
+        margin-right: 30px;
+        font-size: 16px
+    }
+
+    .dm {
+        bottom: 0;
+        font-size: 14px
+    }
+
+    .dm i {
+        font-size: 12px
+    }
+
+    .newsbox {
+        height: 310px
+    }
+
+    .newsbox .swiper-slide {
+        width: 300px
+    }
+
+    .news-menu {
+        margin-bottom: 10px
+    }
+
+    .swiper-fy .swiper-button-prev,
+    .swiper-fy .swiper-button-next {
+        display: none
+    }
+
+    .page-slider {
+        height: 320px
+    }
+
+    .page-slider .f42 {
+        font-size: 20px
+    }
+
+    .page-slider .text {
+        padding: 0 15px
+    }
+
+    .page-slider .item {
+        background-position: left center;
+        background-repeat: no-repeat;
+        height: 320px
+    }
+
+    .ico-list li div {
+        font-size: 16px;
+        padding: 30px 10px
+    }
+
+    .ico-list li:last-child {
+        margin-bottom: 0
+    }
+
+    .pr50 {
+        padding-right: 15px
+    }
+
+    .yj-child {
+        min-height: auto;
+        height: 230px;
+        padding: 10px
+    }
+
+    .yj-child li {
+        font-size: 12px
+    }
+
+    .yj-c-more {
+        line-height: 230px
+    }
+
+    .yj-img,
+    #tabContent3 {
+        display: none
+    }
+
+    .tx-tit {
+        width: 100%
+    }
+
+    .tx-tit li {
+        width: 50%
+    }
+
+    .tz-box {
+        height: 500px
+    }
+
+    .tx-tit {
+        top: 10px
+    }
+
+    .tx-tit li {
+        padding: 30px 0
+    }
+
+    .f20 {
+        font-size: 18px
+    }
+
+    .f18,
+    .cgTab li,
+    .cyzx-ser li p {
+        font-size: 16px
+    }
+
+    .jc-list p {
+        height: 120px
+    }
+
+    .jc-list b {
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+
+    .report-list p a {
+        height: 64px
+    }
+
+    #reportBox,
+    #reportBox2,
+    #reportBox4,
+    #reportBox5 {
+        height: 295px
+    }
+
+    #reportBox4 .img img,
+    #reportBox5 .img img {
+        height: 136px
+    }
+
+    #reportBox4,
+    #reportBox5 {
+        height: 218px
+    }
+
+    #reportBox4 p a,
+    #reportBox5 p a {
+        height: 38px
+    }
+
+    .jztx-box li {
+        width: 50%;
+        height: 310px;
+        margin-top: 0
+    }
+
+    .jztx-box li .head b {
+        font-size: 20px
+    }
+
+    .jztx-box li .info {
+        padding: 20px
+    }
+
+    .jztx-box li.current {
+        height: 310px;
+        margin-top: 0
+    }
+
+    .jztx-box li.current .head {
+        padding: 20px
+    }
+
+    .sl-item div {
+        padding: 20px 15px
+    }
+
+    .sl-item div span {
+        font-size: 28px
+    }
+
+    .sl-item div p {
+        margin-top: 15px
+    }
+
+    .kh-list,
+    .fwqt {
+        margin-bottom: 15px
+    }
+
+    .page-slider .text {
+        font-size: 24px
+    }
+
+    .page-slider .text p {
+        display: none
+    }
+
+    .cyzx-ser li p {
+        margin-top: 10px
+    }
+
+    .lc-list {
+        padding: 20px
+    }
+
+    .lc-list b {
+        font-size: 24px
+    }
+
+    .lc-list p {
+        margin-top: 20px;
+        line-height: 1.5
+    }
+
+    #lcBox .swiper-button-prev,
+    #lcBox .swiper-button-next {
+        display: block
+    }
+
+    .team-content li {
+        padding: 30px 15px
+    }
+
+    .gh-nh div {
+        padding: 30px;
+        margin-bottom: 15px
+    }
+
+    .gh-nh div p {
+        height: auto
+    }
+
+    .gh-nh li:last-child div {
+        margin-bottom: 0
+    }
+
+    .gh-ser div {
+        height: auto
+    }
+
+    .gh-ser .tips {
+        display: none
+    }
+
+    .cyzb-ico li div b {
+        margin-top: 10px
+    }
+
+    .gh-ser li div:hover .tips {
+        display: none
+    }
+
+    .gh-ser li div:hover i {
+        margin-top: 0;
+        opacity: 1
+    }
+
+    .gh-hxyw {
+        border: 0;
+        padding: 0
+    }
+
+    .gh-hxyw h3 {
+        font-size: 18px
+    }
+
+    .gh-hxyw .child {
+        padding: 0 10px;
+        width: 100%
+    }
+
+    .gh-hxyw .child b {
+        width: 100%;
+        height: auto;
+        font-size: 16px;
+        padding: 10px;
+        margin-bottom: 15px
+    }
+
+    .gh-hxyw .child span {
+        display: none
+    }
+
+    .gh-hxyw .c-list {
+        margin-left: -10px;
+        margin-top: 10px
+    }
+
+    .gh-fc i {
+        font-size: 36px
+    }
+
+    .gh-fc .f20 {
+        font-size: 16px
+    }
+
+    .gh-cygh li {
+        width: 100%;
+        padding: 20px 15px;
+        border-bottom: 1px solid #eee
+    }
+
+    .pd50 {
+        padding: 0 15px 15px 15px
+    }
+
+    .zs-zylist li div {
+        margin-top: 15px;
+        padding: 15px
+    }
+
+    .zt-c .t,
+    .gh-gxfa p {
+        display: none
+    }
+
+    .f36 {
+        font-size: 20px
+    }
+
+    .gh-scbox {
+        height: 860px
+    }
+
+    .gh-ldsj {
+        padding: 30px 15px 10px 15px
+    }
+
+    .gh-ldsj ul {
+        display: none
+    }
+
+    .gh-spt {
+        border-bottom: 1px solid #eee;
+        padding-right: 15px;
+        padding-left: 15px
+    }
+
+    .gh-spt .lo {
+        padding-top: 0;
+        text-align: center;
+        margin-bottom: 30px
+    }
+
+    .gh-spt .lo img {
+        width: 60%
+    }
+
+    .gh-gxfa {
+        padding: 35px 20px 20px 20px
+    }
+
+    .gh-td p {
+        height: 160px
+    }
+
+    .zs-yylist .p-r {
+        padding-right: 15px
+    }
+
+    .zs-yylist .p-l {
+        padding-left: 15px
+    }
+
+    .zs-tixi {
+        height: auto
+    }
+
+    .zs-tixi li {
+        width: 100%;
+        margin-top: 15px
+    }
+
+    .zs-tixi li .info {
+        height: auto
+    }
+
+    .zs-tixi li .h {
+        height: auto
+    }
+
+    .zs-tixi li.current {
+        margin-top: 15px
+    }
+
+    .zs-tixi li.current .h {
+        height: auto
+    }
+
+    .zs-tixi li.current .info {
+        height: auto
+    }
+
+    .zs-youzhi li {
+        width: 50%;
+        height: 380px
+    }
+
+    .zs-youzhi {
+        margin-left: -15px;
+        margin-right: -15px
+    }
+
+    .zs-youzhi li div b {
+        font-size: 18px
+    }
+
+    .zs-youzhi li div p {
+        font-size: 12px
+    }
+
+    .zs-zylist2 li div {
+        height: auto
+    }
+
+    .zs-js li div {
+        background-size: cover;
+        width: 100%;
+        height: 202px
+    }
+
+    .zs-js li div b {
+        padding-top: 60px
+    }
+
+    .yyfa {
+        margin-bottom: 15px
+    }
+
+    .yyfa div {
+        padding: 30px
+    }
+
+    .jsmk p,
+    .ss-liucheng,
+    .xsb-box {
+        display: none
+    }
+
+    .jsq-gc .pic {
+        width: 100%;
+        display: none
+    }
+
+    .jsq-gc .txt {
+        width: 100%
+    }
+
+    .jsq-gc .txt li {
+        width: 50%;
+        height: 150px
+    }
+
+    .jsq-gc .txt li div.s i {
+        margin-top: 0
+    }
+
+    .jsq-gc .txt li div.s b {
+        margin-top: 20px
+    }
+
+    .ico-list li.mb0 {
+        margin-bottom: 0
+    }
+
+    .zb-obj li {
+        width: 50%
+    }
+
+    .cc-list {
+        padding: 30px 20px;
+        height: auto
+    }
+
+    .mt50 {
+        margin-top: 30px
+    }
+
+    .zb-yq-item .txt {
+        width: 100%;
+        padding: 15px
+    }
+
+    .zb-yq-item .img {
+        display: none
+    }
+
+    .dsj-l {
+        padding-right: 15px
+    }
+
+    .dsj-img1 {
+        height: auto;
+        margin-top: 50px
+    }
+
+    .dsj-r {
+        padding-left: 15px
+    }
+
+    .m-dsjimg {
+        margin-top: 10px
+    }
+
+    .dsj-qcm p {
+        display: none
+    }
+
+    .news-list li .w-all {
+        width: 100%
+    }
+
+    .news-list li {
+        border: 0;
+        border-bottom: 1px solid #eee
+    }
+
+    .news-list li .w-all a.img {
+        width: 120px
+    }
+
+    .news-list li .w-all .info {
+        margin-left: 140px
+    }
+
+    .news-list li .w-all .info .t {
+        font-size: 14px
+    }
+
+    .news-list li .w-all .info p {
+        display: none
+    }
+
+    .news-wrap,
+    .news-left {
+        width: 100%;
+        padding: 15px
+    }
+
+    .news-left,
+    .rel-bg {
+        padding: 0
+    }
+
+    .news-wrap .title,
+    .news-left .title {
+        font-size: 20px
+    }
+
+    .mt80 {
+        margin-top: 50px
+    }
+
+    .news-right {
+        width: 100%
+    }
+
+    .header {
+        width: 100%
+    }
+
+    .r-pop {
+        display: none
+    }
+
+    .footer .f-left span {
+        display: inline-block
+    }
+
+    .zs-slider li {
+        margin-bottom: 15px
+    }
+
+    .zs-slider li img {
+        height: 210px
+    }
+
+    .zs-slider .first-item img {
+        height: 120px
+    }
+
+    .swiper-fy {
+        width: 100%
+    }
+
+    .dp-box {
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .dp-list {
+        height: auto;
+        width: 100%
+    }
+
+    .dp-list ul {
+        width: auto
+    }
+
+    .dp-list li {
+        width: 100%;
+        margin-bottom: 15px
+    }
+
+    .dp-list .top .date {
+        background: #eee;
+        position: absolute;
+        top: 0;
+        padding-bottom: 0;
+        width: 100%;
+        height: 42px
+    }
+
+    .dp-list .top .txt {
+        margin-top: 42px
+    }
+
+    .dp-list .bot .date {
+        background: #eee;
+        width: 100%;
+        height: 42px;
+        padding-top: 0
+    }
+
+    .dp-list .top1,
+    .dp-list .top2,
+    .dp-list .top3,
+    .dp-list .top4,
+    .dp-list .top5,
+    .dp-list .top6 {
+        margin-top: 0
+    }
+
+    .dp-list .bot1 {
+        margin-top: 0
+    }
+
+    .aboutBox .yyfa {
+        min-height: auto;
+        height: auto
+    }
+
+    .about-item .l2,
+    .about-item .l,
+    .about-item .r2,
+    .about-item .r {
+        width: 100%
+    }
+
+    .about-item .f li {
+        padding: 30px
+    }
+
+    .about-wl {
+        height: 100px
+    }
+
+    .about1,
+    .about2,
+    .about3,
+    .about4 {
+        height: 150px
+    }
+
+    .about-lclist {
+        background: none;
+        padding-top: 0;
+        padding-bottom: 0
+    }
+
+    .about-lclist .lc-item,
+    .about-lclist .lc-item2 {
+        width: 100%;
+        margin-left: 0;
+        padding: 0
+    }
+
+    .about-lclist .lc-item .c {
+        padding: 20px
+    }
+
+    .about-lclist .lc-item .c:before {
+        display: none
+    }
+
+    .about-lclist .lc-item2 .c:before,
+    .about-lclist .lc-item2:before,
+    .about-lclist .lc-item:before {
+        display: none
+    }
+
+    .rel-news .m-txt {
+        margin-bottom: 20px
+    }
+
+    .rel-news li {
+        margin-top: 0;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    .rel-news .index-news h3 {
+        height: 96px
+    }
+
+    .rel-news .index-news {
+        margin-bottom: 20px
+    }
+
+    .zt-swpier {
+        height: 172px
+    }
+
+    .zt-swpier img {
+        height: auto
+    }
+
+    #pictureViewer>.content {
+        width: 100%;
+        height: inherit
+    }
+
+    .gh-td {
+        padding: 15px
+    }
+
+    .news-column .search-result {
+        font-size: 18px
+    }
+
+    .gy-zylist {
+        padding: 15px 5px
+    }
+
+    .gy-zylist li a {
+        padding: 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-size: 12px
+    }
+
+    .index-news-img .txt a {
+        font-size: 14px
+    }
+
+    .index-news-list li a {
+        max-width: 75%
+    }
+
+    .newsbox .pr30 {
+        padding-right: 15px
+    }
+
+    .index-news h3 {
+        height: auto;
+        padding: 16px
+    }
+
+    .index-news h3 a {
+        display: block;
+        height: 42px;
+        overflow: hidden
+    }
+
+    .news-search,
+    .m-hidden {
+        display: none
+    }
+
+    .cyyy-list p {
+        height: auto;
+        margin-bottom: 20px
+    }
+
+    .n-content {
+        font-size: 18px
+    }
+
+    .news-right {
+        margin-top: 30px
+    }
+
+    .relateCase li:nth-child(7),
+    .relateCase li:nth-child(8),
+    .m-case li:nth-child(7),
+    .m-case li:nth-child(8),
+    .m-case li:nth-child(9),
+    .m-case li:nth-child(10) {
+        display: none
+    }
+
+    .gh-cygh li b {
+        margin-bottom: 15px
+    }
+
+    .gh-cygh li span {
+        display: none
+    }
+
+    .gh-cygh li p {
+        width: 47%;
+        float: left;
+        font-size: 12px
+    }
+
+    .gh-cygh li p:nth-child(2n) {
+        float: right
+    }
+
+    .fwqt>div ul {
+        height: auto
+    }
+
+    .fwqt div ul li {
+        font-size: 13px
+    }
+
+    .fwqt>div {
+        padding: 20px 15px 40px 15px
+    }
+
+    .yuanqu-map {
+        height: 220px
+    }
+
+    .yuanqu-map .nearby-list {
+        display: none
+    }
+
+    .m-div-table {
+        overflow-x: scroll
+    }
+
+    .company-table {
+        width: 860px
+    }
+
+    .mapDiv {
+        width: 100%;
+        height: 100%
+    }
+
+    .company-pop {
+        overflow-y: scroll
+    }
+
+    .company-pop .qiye-xiangxi {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+        top: 0;
+        bottom: 0
+    }
+
+    .yuanqu-fliter .yq-search input {
+        width: 150px
+    }
+
+    .yuanqu-head h1 {
+        font-size: 20px
+    }
+
+    .share {
+        display: none
+    }
+
+    #carousel-com-dongtai .carousel-control {
+        line-height: 30px
+    }
+}
